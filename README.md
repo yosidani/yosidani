@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=&height=100&section=header"/>
 </p>
 <h1 align="center"> Hi👋, I'm Yosias</h1>
-<h3 align="center">A CS and Economics student at the University of Calgary.</h3>
+<h3 align="center">CS and Economics student at the University of Calgary.</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Gearing+up+for+the+future.;One+step+at+a+time." alt="Typing SVG" />
