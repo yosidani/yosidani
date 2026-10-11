@@ -45,7 +45,7 @@ I’m pursuing a combined degree as a Computer Science and Economics student at 
 
 </p>
 
-##📬 Connect With Me
+## 📬 Connect With Me
 - LinkedIn: [Yosias Demoz](https://linkedin.com/in/yosiasdemoz)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
